@@ -33,7 +33,7 @@ hashLengthRegex(256, {exact: true}).test('4696a780a2051b5a0f422970904da794adc1b4
 
 ### hashLengthRegex (bitLength, [options])
 
-Returns the regular expression of a hash of the specified number of bits.
+Returns the regular expression of a hash of the specified bit-length.
 
 #### bitLength
 
