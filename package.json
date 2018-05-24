@@ -1,0 +1,32 @@
+{
+  "name": "hash-length-regex",
+  "version": "1.0.0",
+  "description": "Retrieve the regular expression of hash of specified bit-length.",
+  "license": "MIT",
+  "repository": "k4m4/hash-length-rege",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "https://nikolaskama.me",
+    "email": "nikolaskam@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "hash",
+    "length",
+    "regex",
+    "bits",
+    "bit-length"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  }
+}
