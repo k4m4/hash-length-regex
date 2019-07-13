@@ -1,6 +1,6 @@
 {
   "name": "hash-length-regex",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Retrieve the regular expression of hash of specified bit-length.",
   "license": "MIT",
   "repository": "k4m4/hash-length-rege",
