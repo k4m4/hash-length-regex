@@ -12,7 +12,7 @@
 
 ## Usage
 
-```
+```js
 const hashLengthRegex = require('hash-length-regex');
 
 hashLengthRegex(128).test('nodejsrocks 1abcb33beeb811dca15f0ac3e47b88d9');
