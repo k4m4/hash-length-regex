@@ -1,4 +1,4 @@
-# hash-length-regex [![Build Status](https://travis-ci.org/k4m4/hash-length-regex.svg?branch=master)](https://travis-ci.org/k4m4/hash-length-regex)
+# hash-length-regex [![Build Status](https://travis-ci.org/k4m4/hash-length-regex.svg?branch=master)](https://travis-ci.org/k4m4/hash-length-regex) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 > Retrieve the regular expression of a hash of specified bit-length.
 
