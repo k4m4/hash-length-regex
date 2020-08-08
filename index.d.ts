@@ -5,7 +5,7 @@ declare namespace hashLengthRegex {
 		@default false
 		*/
 		readonly exact?: boolean;
-    }
+	}
 }
 
 /**
@@ -16,6 +16,6 @@ hashLengthRegex(128).test('nodejsrocks 1abcb33beeb811dca15f0ac3e47b88d9');
 //=> true
 ```
 */
-declare function hashLengthRegex(bitLength: number, options?: hashLengthRegex.Options): RegExp;
+declare function hashLengthRegex(bitLength: number, options?: hashLengthRegex.Options): RegExp
 
-export = hashLengthRegex;
+export = hashLengthRegex
